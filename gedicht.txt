@@ -1,13 +1,12 @@
 
 Farbpalette
 
-
 Rot
 Grün
 Blau
 Hellblau
 Dunkelblau
-gelb
 magenta
+
 Sind alles tolle Farben.
 
